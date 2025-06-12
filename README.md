@@ -21,6 +21,7 @@ Hệ thống sử dụng hai mô hình AI chạy song song để đảm bảo an
 ### Cách chạy:
 ```bash
 python yolo/test/detect.py --source 0 --weights yolo/test/model.pt
+```
 
 ---
 
